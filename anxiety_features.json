@@ -1,18 +1,18 @@
 {
 "features_detected":
-	{"frowning_eyebrow":0.1,
-	"small_eye":0.1,
-	"closed_eye":0.1,
-	"empty_eye":0.1,
-	"pointy_nose":0.1,
-	"large_nose":0.1,
-	"cupid_mouth":0.1,
-	"open_mouth":0.1,
-	"line_unsmiling_mouth":0.1,
-	"large_ear":0.1},
+	{"frowning_eyebrow":0.05,
+	"small_eye":0.05,
+	"closed_eye":0.05,
+	"empty_eye":0.05,
+	"pointy_nose":0.05,
+	"large_nose":0.05,
+	"cupid_mouth":0.05,
+	"open_mouth":0.05,
+	"line_unsmiling_mouth":0.05,
+	"large_ear":0.05},
 "features_omitted":
-	{"eyes_omitted":0.25,
-	"nose_omitted":0.25,
-	"mouth_omitted":0.25,
-	"ears_omitted":0.25}
+	{"eyes_omitted":0.125,
+	"nose_omitted":0.125,
+	"mouth_omitted":0.125,
+	"ears_omitted":0.125}
 }
